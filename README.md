@@ -52,16 +52,17 @@ To test the model, randomly select an image from the test dataset and run:
 ```sh
 python test_model.py --image_path <path_to_image>
 ```
+### Team Name
+- **BYTE BRAINED**
 
 ## Authors
-- **Mina Hill**
+- **Minahil Kashif** **minahilkashif10@gmail.com**
+- **Areesha Hussain** **i230123@isb.nu.edu.pk**
 - Infyma AI Hackathon 2025 Team
 
 ## Acknowledgments
 - Kaggle for providing the dataset.
 - TensorFlow & Keras for deep learning frameworks.
 
-## License
-This project is open-source and available under the MIT License.
 
  
